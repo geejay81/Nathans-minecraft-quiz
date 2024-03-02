@@ -25,5 +25,68 @@
             { "answer": "Zombie" },
             { "answer": "The Warden", "isCorrect": true }
         ]
+    },
+    {
+        "question": "Who are the two main characters in Minecraft?",
+        "answerOptions": [
+            { "answer": "Steve and Alex", "isCorrect": true },
+            { "answer": "Nathan and Daddy" },
+            { "answer": "Mikey and JJ" },
+            { "answer": "Henry and Nathan" }
+        ]
+    },
+    {
+        "question": "How high can you jump in Minecraft?",
+        "answerOptions": [
+            { "answer": "1 block", "isCorrect": true },
+            { "answer": "2 blocks" },
+            { "answer": "3 blocks" },
+            { "answer": "4 blocks" }
+        ]
+    },
+    {
+        "question": "Who are the best players in Minecraft?",
+        "answerOptions": [
+            { "answer": "Henry and Nathan" },
+            { "answer": "Just Nathan" },
+            { "answer": "Nathan, Henry, and Mikey and JJ", "isCorrect": true },
+            { "answer": "Preston and Unspeakable" }
+        ]
+    },
+    {
+        "question": "What can Zombies do to doors?",
+        "answerOptions": [
+            { "answer": "Eat them" },
+            { "answer": "Break them", "isCorrect": true },
+            { "answer": "Go through them" },
+            { "answer": "Lock them up" }
+        ]
+    },
+    {
+        "question": "What is the biggst hostile mob in Minecraft?",
+        "answerOptions": [
+            { "answer": "The Wither" },
+            { "answer": "The Ender Dragon", "isCorrect": true },
+            { "answer": "The Warden" },
+            { "answer": "A Skeleton" }
+        ]
+    },
+    {
+        "question": "Who killed the Warden?",
+        "answerOptions": [
+            { "answer": "Nathan", "isCorrect": true },
+            { "answer": "Jaime" },
+            { "answer": "Daddy" },
+            { "answer": "Mummy" }
+        ]
+    },
+    {
+        "question": "How big is Nathan's house in Minecraft?",
+        "answerOptions": [
+            { "answer": "2,340,294,802 blocks" },
+            { "answer": "293,480,984,024 blocks" },
+            { "answer": "9,890,989 blocks" },
+            { "answer": "2,934,432,439,854,578,392,039 blocks", "isCorrect": true }
+        ]
     }
 ]
