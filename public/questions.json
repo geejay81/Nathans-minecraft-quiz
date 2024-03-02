@@ -16,5 +16,14 @@
             { "answer": "The Void", "isCorrect": true },
             { "answer": "Void Core" }
         ]
+    },
+    {
+        "question": "What is the strongest hostile mob in Minecraft?",
+        "answerOptions": [
+            { "answer": "The Wither" },
+            { "answer": "Wither Skeleton" },
+            { "answer": "Zombie" },
+            { "answer": "The Warden", "isCorrect": true }
+        ]
     }
 ]
