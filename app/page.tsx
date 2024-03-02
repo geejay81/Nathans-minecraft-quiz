@@ -1,4 +1,4 @@
-import Quiz from "@/Components/quiz";
+import Quiz from "@/components/quiz";
 
 export default function Home() {
   
