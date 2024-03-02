@@ -63,7 +63,7 @@
         ]
     },
     {
-        "question": "What is the biggst hostile mob in Minecraft?",
+        "question": "What is the biggest hostile mob in Minecraft?",
         "answerOptions": [
             { "answer": "The Wither" },
             { "answer": "The Ender Dragon", "isCorrect": true },
