@@ -1,0 +1,20 @@
+[
+    {
+        "question": "What is the strongest block in Minecraft?",
+        "answerOptions": [
+            { "answer": "Dirt" },
+            { "answer": "Bedrock", "isCorrect": true },
+            { "answer": "Obsidian" },
+            { "answer": "Diamond" }
+        ]
+    },
+    {
+        "question": "What is Space called in Minecraft?",
+        "answerOptions": [
+            { "answer": "Space" },
+            { "answer": "Error" },
+            { "answer": "The Void", "isCorrect": true },
+            { "answer": "Void Core" }
+        ]
+    }
+]
